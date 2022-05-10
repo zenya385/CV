@@ -15,7 +15,7 @@ body {
 /* main content section */
 
 .main-container-section {
-  padding: 100px 90px;
+  padding: 30px 90px;
 }
 
 .maine-content-title {
@@ -69,7 +69,7 @@ body {
 }
 .my-projects-item {
   color: #000;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 .my-projects-link {
   font-style: normal;
