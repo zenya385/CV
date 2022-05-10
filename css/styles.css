@@ -1,0 +1,201 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  /* margin: 0; */
+}
+
+/* main content section */
+
+.main-container-section {
+  padding: 100px 90px;
+}
+
+.maine-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+/* .about-me-section */
+
+.about-me-section {
+  margin-bottom: 40px;
+}
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.my-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+.about-me-description {
+  width: 600px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* my projects section. */
+
+.my-projects-section {
+  margin-bottom: 50px;
+}
+
+.my-projects-list {
+  padding: 0 0 0 17px;
+}
+.my-projects-item {
+  color: #000;
+  font-weight: bold;
+}
+.my-projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.my-projects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-projects-brasket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+.my-work-expirions-company {
+  color: #fb6d3a;
+}
+.my-work-expirions-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 0 0 10px 0;
+}
+.my-work-expirions-time {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 0 0 10px 0;
+}
+
+.my-work-expirions-divilder {
+  color: #000;
+}
+.my-work-expirions-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.my-work-expirions-company-block {
+  margin: 0 15px 0 0;
+}
+.my-work-expirions-duties {
+  padding: 0 0 0 18px;
+}
+
+/* .sidebar-section */
+.sidebar-section {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+.img-photo {
+  height: 370px;
+  width: 370px;
+}
+
+.Contacts-section,
+.tech-skills-section,
+.soft-skills-section {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar-title,
+.tech-skills-title,
+.soft-skills-titles {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.contacts-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 7px;
+}
+.contacts-section-link {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  text-decoration: none;
+}
+.contacts-section-location {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  margin-left: 7px;
+  color: #fff;
+}
+
+.tech-skills-list,
+.soft-skills-list {
+  padding: 0 0 0 17px;
+}
+
+.tech-skills-item-text,
+.soft-skills-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.tech-skills-item,
+.soft-skills-item {
+  color: #fb6d3a;
+}
