@@ -15,7 +15,7 @@ body {
 /* main content section */
 
 .main-container-section {
-  padding: 30px 90px;
+  padding: 15px 90px;
 }
 
 .maine-content-title {
@@ -47,6 +47,7 @@ body {
   line-height: 55px;
   color: #000;
   margin-bottom: 20px;
+  
 }
 
 .about-me-description {
