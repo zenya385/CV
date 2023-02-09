@@ -15,38 +15,40 @@ body {
 /* main content section */
 
 .main-container-section {
-  padding: 30px 90px;
+  padding: 10px 90px;
 }
 
 .maine-content-title {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
-  line-height: 27px;
+  line-height: 25px;
   color: #000;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
 }
 
 /* .about-me-section */
 
 .about-me-section {
-  margin-bottom: 40px;
+  margin-bottom: 25px;
 }
+
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 17px;
+  line-height: 15px;
   color: #000;
   margin-bottom: 20px;
 }
+
 .my-name {
   font-style: normal;
   font-weight: bold;
   font-size: 45px;
-  line-height: 55px;
+  line-height: 45px;
   color: #000;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .about-me-description {
@@ -54,28 +56,30 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #595959;
 }
 
 /* my projects section. */
 
 .my-projects-section {
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .my-projects-list {
   padding: 0 0 0 17px;
 }
+
 .my-projects-item {
   color: #000;
   /* font-weight: bold; */
 }
+
 .my-projects-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #595959;
 }
 
@@ -83,50 +87,56 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #595959;
   margin-left: 5px;
 }
+
 .my-projects-brasket {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #000;
 }
+
 .my-work-expirions-company {
   color: #fb6d3a;
 }
+
 .my-work-expirions-position {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  line-height: 20px;
-  margin-bottom: 0 0 10px 0;
+  line-height: 17px;
+  margin-bottom: 7px;
 }
+
 .my-work-expirions-time {
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
-  line-height: 15px;
+  line-height: 12px;
   color: #a8a8a8;
-  margin-bottom: 0 0 10px 0;
+  margin-bottom: 7px;
 }
 
 .my-work-expirions-divilder {
   color: #000;
 }
+
 .my-work-expirions-duty {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #595959;
 }
 
 .my-work-expirions-company-block {
   margin: 0 15px 0 0;
 }
+
 .my-work-expirions-duties {
   padding: 0 0 0 18px;
 }
@@ -135,8 +145,10 @@ body {
 .sidebar-section {
   background-color: #2D3472;
   width: 370px;
-  padding: 40px 0;
+  /* padding-top: 40px 0; */
+  padding-bottom: 20px;
 }
+
 .img-photo {
   height: 370px;
   width: 370px;
@@ -154,18 +166,20 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
-  line-height: 27px;
+  line-height: 25px;
   color: #fff;
   margin-bottom: 10px;
 }
+
 .contacts-section-type {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #fff;
   margin-right: 7px;
 }
+
 .contacts-section-link {
   color: #fff;
   font-style: normal;
@@ -173,6 +187,7 @@ body {
   font-size: 14px;
   text-decoration: none;
 }
+
 .contacts-section-location {
   font-style: normal;
   font-weight: normal;
@@ -191,7 +206,7 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 20px;
   color: #fff;
 }
 
